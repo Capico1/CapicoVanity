@@ -1,0 +1,4 @@
+# Keep exact source bytes so SOURCE-MANIFEST.json verifies after checkout.
+* -text
+*.png binary
+*.ico binary

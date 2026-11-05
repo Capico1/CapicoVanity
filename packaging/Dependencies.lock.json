@@ -1,0 +1,348 @@
+{
+  "schema": 1,
+  "packages": [
+    {
+      "id": "ADRaffy.ENSNormalize",
+      "version": "0.3.1",
+      "sha256": "455313ac6a084638a21c885193c096e34089d02803a5545a7a6469368a11ae3f",
+      "destination": "packages/ADRaffy.ENSNormalize.0.3.1",
+      "url": "https://api.nuget.org/v3-flatcontainer/adraffy.ensnormalize/0.3.1/adraffy.ensnormalize.0.3.1.nupkg"
+    },
+    {
+      "id": "Chaos.NaCl.Standard",
+      "version": "1.0.0",
+      "sha256": "99d1411a75f24d18f963db82bd325ac9c099265cf5ad139fa1b5d66e237c5a0b",
+      "destination": "packages/Chaos.NaCl.Standard.1.0.0",
+      "url": "https://api.nuget.org/v3-flatcontainer/chaos.nacl.standard/1.0.0/chaos.nacl.standard.1.0.0.nupkg"
+    },
+    {
+      "id": "IndexRange",
+      "version": "1.0.3",
+      "sha256": "a627bdedf7f36d0b714487880a3c9c29445e240b7210d0bf5caccebe32a89a54",
+      "destination": "packages/IndexRange.1.0.3",
+      "url": "https://api.nuget.org/v3-flatcontainer/indexrange/1.0.3/indexrange.1.0.3.nupkg"
+    },
+    {
+      "id": "Microsoft.Bcl.AsyncInterfaces",
+      "version": "9.0.2",
+      "sha256": "0fe311e51cf19fe6853d525617cde97347535a741eb3ae7cc413386cf67a1cf7",
+      "destination": "packages/Microsoft.Bcl.AsyncInterfaces.9.0.2",
+      "url": "https://api.nuget.org/v3-flatcontainer/microsoft.bcl.asyncinterfaces/9.0.2/microsoft.bcl.asyncinterfaces.9.0.2.nupkg"
+    },
+    {
+      "id": "Microsoft.Extensions.Logging.Abstractions",
+      "version": "6.0.0",
+      "sha256": "40da9c437c7e30e2bb9576d6902cd23966bfd90c9835b74cfce1046d6375e52c",
+      "destination": "packages/Microsoft.Extensions.Logging.Abstractions.6.0.0",
+      "url": "https://api.nuget.org/v3-flatcontainer/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg"
+    },
+    {
+      "id": "native-websocket",
+      "version": "0.0.3",
+      "sha256": "551736a7d3a456c84a8184af5faa2c942bac92356213bfb07366985d53c38d89",
+      "destination": "packages/native-websocket.0.0.3",
+      "url": "https://api.nuget.org/v3-flatcontainer/native-websocket/0.0.3/native-websocket.0.0.3.nupkg"
+    },
+    {
+      "id": "NBitcoin",
+      "version": "7.0.6",
+      "sha256": "87678124c242f88e59c29e8d445cf2a24c84a76c58548f2c1ed149bb844a107c",
+      "destination": "packages/NBitcoin.7.0.6",
+      "url": "https://api.nuget.org/v3-flatcontainer/nbitcoin/7.0.6/nbitcoin.7.0.6.nupkg"
+    },
+    {
+      "id": "Nethereum.ABI",
+      "version": "7.0.0",
+      "sha256": "419a24df7d4e12d6811fa5a760053a20a9a6e605bddaad4d0c3878677c985267",
+      "destination": "packages/Nethereum.ABI.7.0.0",
+      "url": "https://api.nuget.org/v3-flatcontainer/nethereum.abi/7.0.0/nethereum.abi.7.0.0.nupkg"
+    },
+    {
+      "id": "Nethereum.Accounts",
+      "version": "7.0.0",
+      "sha256": "29320e987316fb4043fe1f2d937e15a717ea8e0a2ce0d8196cb3e8ce43cc32f5",
+      "destination": "packages/Nethereum.Accounts.7.0.0",
+      "url": "https://api.nuget.org/v3-flatcontainer/nethereum.accounts/7.0.0/nethereum.accounts.7.0.0.nupkg"
+    },
+    {
+      "id": "Nethereum.BlockchainProcessing",
+      "version": "7.0.0",
+      "sha256": "72825323ea0acdc657101c6212e95d6a91851c1892e4639871227ec4c056d974",
+      "destination": "packages/Nethereum.BlockchainProcessing.7.0.0",
+      "url": "https://api.nuget.org/v3-flatcontainer/nethereum.blockchainprocessing/7.0.0/nethereum.blockchainprocessing.7.0.0.nupkg"
+    },
+    {
+      "id": "Nethereum.Contracts",
+      "version": "7.0.0",
+      "sha256": "31cabfddea57077a004720d7fb46d6e3ea5588c73e520d7137e3c3930f2254fb",
+      "destination": "packages/Nethereum.Contracts.7.0.0",
+      "url": "https://api.nuget.org/v3-flatcontainer/nethereum.contracts/7.0.0/nethereum.contracts.7.0.0.nupkg"
+    },
+    {
+      "id": "Nethereum.HdWallet",
+      "version": "7.0.0",
+      "sha256": "678a7f9214889d9dc2f27f31ba7c409e2a621051a9f0f5361c67c1ae46b5eea3",
+      "destination": "packages/Nethereum.HdWallet.7.0.0",
+      "url": "https://api.nuget.org/v3-flatcontainer/nethereum.hdwallet/7.0.0/nethereum.hdwallet.7.0.0.nupkg"
+    },
+    {
+      "id": "Nethereum.Hex",
+      "version": "7.0.0",
+      "sha256": "ff6699c923a4982b0449ca809597a7607a6cdd6f5da617339b6360ff21e0e6d4",
+      "destination": "packages/Nethereum.Hex.7.0.0",
+      "url": "https://api.nuget.org/v3-flatcontainer/nethereum.hex/7.0.0/nethereum.hex.7.0.0.nupkg"
+    },
+    {
+      "id": "Nethereum.JsonRpc.Client",
+      "version": "7.0.0",
+      "sha256": "e60adc8a5cc535ab48cf2746e3f00d9789fb0132e2622c878190b954815b81bc",
+      "destination": "packages/Nethereum.JsonRpc.Client.7.0.0",
+      "url": "https://api.nuget.org/v3-flatcontainer/nethereum.jsonrpc.client/7.0.0/nethereum.jsonrpc.client.7.0.0.nupkg"
+    },
+    {
+      "id": "Nethereum.JsonRpc.RpcClient",
+      "version": "7.0.0",
+      "sha256": "0fb5e2621cc3fe0ea910a7b3fb2df900bb54d2841178d1b560ae7e179332e958",
+      "destination": "packages/Nethereum.JsonRpc.RpcClient.7.0.0",
+      "url": "https://api.nuget.org/v3-flatcontainer/nethereum.jsonrpc.rpcclient/7.0.0/nethereum.jsonrpc.rpcclient.7.0.0.nupkg"
+    },
+    {
+      "id": "Nethereum.KeyStore",
+      "version": "7.0.0",
+      "sha256": "f97561427f4f7ae15dac6aee18920ab4f7229e718b2d734f7a4d56b5fa66561e",
+      "destination": "packages/Nethereum.KeyStore.7.0.0",
+      "url": "https://api.nuget.org/v3-flatcontainer/nethereum.keystore/7.0.0/nethereum.keystore.7.0.0.nupkg"
+    },
+    {
+      "id": "Nethereum.Merkle.Patricia",
+      "version": "7.0.0",
+      "sha256": "a275b1c54bb2a83a15ca3928f58e9097c5f25a6ddbdf145bfba9d7d363383992",
+      "destination": "packages/Nethereum.Merkle.Patricia.7.0.0",
+      "url": "https://api.nuget.org/v3-flatcontainer/nethereum.merkle.patricia/7.0.0/nethereum.merkle.patricia.7.0.0.nupkg"
+    },
+    {
+      "id": "Nethereum.Model",
+      "version": "7.0.0",
+      "sha256": "824e526c29751b437ed4e85a5a43c68bc9ccaddf0cc3658c21716c8f2fbfe0dd",
+      "destination": "packages/Nethereum.Model.7.0.0",
+      "url": "https://api.nuget.org/v3-flatcontainer/nethereum.model/7.0.0/nethereum.model.7.0.0.nupkg"
+    },
+    {
+      "id": "Nethereum.RLP",
+      "version": "7.0.0",
+      "sha256": "0815d428a5c52b6b99a5dae1aff4ec07863607f07624256d7ecdad866f6b363c",
+      "destination": "packages/Nethereum.RLP.7.0.0",
+      "url": "https://api.nuget.org/v3-flatcontainer/nethereum.rlp/7.0.0/nethereum.rlp.7.0.0.nupkg"
+    },
+    {
+      "id": "Nethereum.RPC",
+      "version": "7.0.0",
+      "sha256": "0a1f0a236680a83673bfeab218269ebce4d22c9fabd8a67ed6f81a58e03f25c0",
+      "destination": "packages/Nethereum.RPC.7.0.0",
+      "url": "https://api.nuget.org/v3-flatcontainer/nethereum.rpc/7.0.0/nethereum.rpc.7.0.0.nupkg"
+    },
+    {
+      "id": "Nethereum.Signer",
+      "version": "7.0.0",
+      "sha256": "e30155550877a569c340ba59e4b6a7e4a3685b7ff8843bf165e1b4e7d30e7f02",
+      "destination": "packages/Nethereum.Signer.7.0.0",
+      "url": "https://api.nuget.org/v3-flatcontainer/nethereum.signer/7.0.0/nethereum.signer.7.0.0.nupkg"
+    },
+    {
+      "id": "Nethereum.Signer.EIP712",
+      "version": "7.0.0",
+      "sha256": "ed9e1415a39fad2e94d0eeddf1581086eda13c3d6c8dbaae6a9f4773fbb22938",
+      "destination": "packages/Nethereum.Signer.EIP712.7.0.0",
+      "url": "https://api.nuget.org/v3-flatcontainer/nethereum.signer.eip712/7.0.0/nethereum.signer.eip712.7.0.0.nupkg"
+    },
+    {
+      "id": "Nethereum.Util",
+      "version": "7.0.0",
+      "sha256": "2c89120e556d04291d9bef8c62abb77dd3e7cb836946b84a44421fba3d7b0b02",
+      "destination": "packages/Nethereum.Util.7.0.0",
+      "url": "https://api.nuget.org/v3-flatcontainer/nethereum.util/7.0.0/nethereum.util.7.0.0.nupkg"
+    },
+    {
+      "id": "Nethereum.Util.Rest",
+      "version": "7.0.0",
+      "sha256": "0e486972ab4c674138e0c482c71a096185370795caae0215576eff0a4b34f09a",
+      "destination": "packages/Nethereum.Util.Rest.7.0.0",
+      "url": "https://api.nuget.org/v3-flatcontainer/nethereum.util.rest/7.0.0/nethereum.util.rest.7.0.0.nupkg"
+    },
+    {
+      "id": "Nethereum.Web3",
+      "version": "7.0.0",
+      "sha256": "958b00cc0a4ef92bc583c7eaf278d588c41af725cf915a9ee36b78c076cfd6df",
+      "destination": "packages/Nethereum.Web3.7.0.0",
+      "url": "https://api.nuget.org/v3-flatcontainer/nethereum.web3/7.0.0/nethereum.web3.7.0.0.nupkg"
+    },
+    {
+      "id": "Newtonsoft.Json",
+      "version": "13.0.3",
+      "sha256": "872fc189e638ab1056555b03aaa38f68bcb54286e221aa646eb1129babf63c77",
+      "destination": "packages/Newtonsoft.Json.13.0.3",
+      "url": "https://api.nuget.org/v3-flatcontainer/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg"
+    },
+    {
+      "id": "Portable.BouncyCastle",
+      "version": "1.9.0",
+      "sha256": "18e5cce137534e8756946cc47db305a2b4df4d023f39b2469c564c483e97f04e",
+      "destination": "packages/Portable.BouncyCastle.1.9.0",
+      "url": "https://api.nuget.org/v3-flatcontainer/portable.bouncycastle/1.9.0/portable.bouncycastle.1.9.0.nupkg"
+    },
+    {
+      "id": "Solana.Unity.Rpc",
+      "version": "2.6.1.3",
+      "sha256": "3e587bfd717228762e09cf6706464d083d63056b35764698cc237097c7f75c60",
+      "destination": "packages/Solana.Unity.Rpc.2.6.1.3",
+      "url": "https://api.nuget.org/v3-flatcontainer/solana.unity.rpc/2.6.1.3/solana.unity.rpc.2.6.1.3.nupkg"
+    },
+    {
+      "id": "Solana.Unity.Wallet",
+      "version": "2.6.1.3",
+      "sha256": "65536cf23bb55cf0b798142828b40dd6318b10b9a9e0ca9ac5a980868857c511",
+      "destination": "packages/Solana.Unity.Wallet.2.6.1.3",
+      "url": "https://api.nuget.org/v3-flatcontainer/solana.unity.wallet/2.6.1.3/solana.unity.wallet.2.6.1.3.nupkg"
+    },
+    {
+      "id": "System.Buffers",
+      "version": "4.5.1",
+      "sha256": "c30b3dd2c7e2f4cee4b823d692fd42118309b42ab1f5007f923d329a5b0d6b12",
+      "destination": "packages/System.Buffers.4.5.1",
+      "url": "https://api.nuget.org/v3-flatcontainer/system.buffers/4.5.1/system.buffers.4.5.1.nupkg"
+    },
+    {
+      "id": "System.Collections.Immutable",
+      "version": "6.0.0",
+      "sha256": "0ca11ba45a9708811faa9f69ddecea69d9f96ff4b5613937dbf1102beb4449cb",
+      "destination": "packages/System.Collections.Immutable.6.0.0",
+      "url": "https://api.nuget.org/v3-flatcontainer/system.collections.immutable/6.0.0/system.collections.immutable.6.0.0.nupkg"
+    },
+    {
+      "id": "System.IO",
+      "version": "4.3.0",
+      "sha256": "aeeca74077a414fe703eb0e257284d891217799fc8f4da632b9a54f873c38916",
+      "destination": "packages/System.IO.4.3.0",
+      "url": "https://api.nuget.org/v3-flatcontainer/system.io/4.3.0/system.io.4.3.0.nupkg"
+    },
+    {
+      "id": "System.IO.Pipelines",
+      "version": "9.0.2",
+      "sha256": "bb133b27443f77312c0f434671506c3a674788e11ac19e46354281c297623f21",
+      "destination": "packages/System.IO.Pipelines.9.0.2",
+      "url": "https://api.nuget.org/v3-flatcontainer/system.io.pipelines/9.0.2/system.io.pipelines.9.0.2.nupkg"
+    },
+    {
+      "id": "System.Memory",
+      "version": "4.5.5",
+      "sha256": "10f43da352a29fb2b3188e4edd4dcf5100194c8b526e4f61fe2e2b5623775a22",
+      "destination": "packages/System.Memory.4.5.5",
+      "url": "https://api.nuget.org/v3-flatcontainer/system.memory/4.5.5/system.memory.4.5.5.nupkg"
+    },
+    {
+      "id": "System.Numerics.Vectors",
+      "version": "4.5.0",
+      "sha256": "a9d49320581fda1b4f4be6212c68c01a22cdf228026099c20a8eabefcf90f9cf",
+      "destination": "packages/System.Numerics.Vectors.4.5.0",
+      "url": "https://api.nuget.org/v3-flatcontainer/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg"
+    },
+    {
+      "id": "System.Runtime",
+      "version": "4.3.0",
+      "sha256": "e75f35dd65e9048b2e03a7d4b44e57691423716750dbf966128909b7deeed118",
+      "destination": "packages/System.Runtime.4.3.0",
+      "url": "https://api.nuget.org/v3-flatcontainer/system.runtime/4.3.0/system.runtime.4.3.0.nupkg"
+    },
+    {
+      "id": "System.Runtime.CompilerServices.Unsafe",
+      "version": "6.0.0",
+      "sha256": "6c41b53e70e9eee298cff3a02ce5acdd15b04125589be0273f0566026720a762",
+      "destination": "packages/System.Runtime.CompilerServices.Unsafe.6.0.0",
+      "url": "https://api.nuget.org/v3-flatcontainer/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg"
+    },
+    {
+      "id": "System.Security.Cryptography.Algorithms",
+      "version": "4.3.1",
+      "sha256": "4253bfa69464fcec836070a2983f3aed102528839a922743d0808d3adeb75cd4",
+      "destination": "packages/System.Security.Cryptography.Algorithms.4.3.1",
+      "url": "https://api.nuget.org/v3-flatcontainer/system.security.cryptography.algorithms/4.3.1/system.security.cryptography.algorithms.4.3.1.nupkg"
+    },
+    {
+      "id": "System.Security.Cryptography.Encoding",
+      "version": "4.3.0",
+      "sha256": "62e81ef3d37a33e35c6e572f5cc7b21d9ea46437f006fdcb3cc0e217c1e126cb",
+      "destination": "packages/System.Security.Cryptography.Encoding.4.3.0",
+      "url": "https://api.nuget.org/v3-flatcontainer/system.security.cryptography.encoding/4.3.0/system.security.cryptography.encoding.4.3.0.nupkg"
+    },
+    {
+      "id": "System.Security.Cryptography.Primitives",
+      "version": "4.3.0",
+      "sha256": "7e7162ec1dd29d58f96be05b8179db8e718dbd6ac2114e87a7fc23b235b3df5f",
+      "destination": "packages/System.Security.Cryptography.Primitives.4.3.0",
+      "url": "https://api.nuget.org/v3-flatcontainer/system.security.cryptography.primitives/4.3.0/system.security.cryptography.primitives.4.3.0.nupkg"
+    },
+    {
+      "id": "System.Text.Encodings.Web",
+      "version": "9.0.2",
+      "sha256": "b5985cfd77be485f5b0a996d86987642641a916c4a56331f4096730f55dba60f",
+      "destination": "packages/System.Text.Encodings.Web.9.0.2",
+      "url": "https://api.nuget.org/v3-flatcontainer/system.text.encodings.web/9.0.2/system.text.encodings.web.9.0.2.nupkg"
+    },
+    {
+      "id": "System.Text.Json",
+      "version": "9.0.2",
+      "sha256": "91fb4a52e1a066d17800f9a9efb53bf70b3bea61088be47df834951a2900e72f",
+      "destination": "packages/System.Text.Json.9.0.2",
+      "url": "https://api.nuget.org/v3-flatcontainer/system.text.json/9.0.2/system.text.json.9.0.2.nupkg"
+    },
+    {
+      "id": "System.Threading.Tasks.Extensions",
+      "version": "4.5.4",
+      "sha256": "a304a963cc0796c5179f9c6b7d8022bbce3b2fa7c029eb6196f631f7b462d678",
+      "destination": "packages/System.Threading.Tasks.Extensions.4.5.4",
+      "url": "https://api.nuget.org/v3-flatcontainer/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg"
+    },
+    {
+      "id": "System.ValueTuple",
+      "version": "4.5.0",
+      "sha256": "9e21fa9767d4e76bc0cee065c1d40cc34384a114bfec4d70e6c981168a926802",
+      "destination": "packages/System.ValueTuple.4.5.0",
+      "url": "https://api.nuget.org/v3-flatcontainer/system.valuetuple/4.5.0/system.valuetuple.4.5.0.nupkg"
+    },
+    {
+      "id": "websocket-sharp-latest",
+      "version": "1.0.2",
+      "sha256": "3a53d97e8c6db17d124d881b535c1610c011006b952744b3e8e3564c0a7192bc",
+      "destination": "packages/websocket-sharp-latest.1.0.2",
+      "url": "https://api.nuget.org/v3-flatcontainer/websocket-sharp-latest/1.0.2/websocket-sharp-latest.1.0.2.nupkg"
+    },
+    {
+      "id": "Nethereum.EVM",
+      "version": "7.0.0",
+      "sha256": "52f263bcdc578fe68709541b62962226cc052f2eb3245aa06e813909e1b36213",
+      "destination": "packages/Nethereum.EVM.7.0.0",
+      "url": "https://api.nuget.org/v3-flatcontainer/nethereum.evm/7.0.0/nethereum.evm.7.0.0.nupkg"
+    },
+    {
+      "id": "Microsoft.Net.Compilers.Toolset",
+      "version": "4.12.0",
+      "sha256": "fe24ef31a6ffcb7c49383d2fd362763dee291ad9b9d98cc0c19ef80203b99ebc",
+      "destination": ".local-build/compiler",
+      "url": "https://api.nuget.org/v3-flatcontainer/microsoft.net.compilers.toolset/4.12.0/microsoft.net.compilers.toolset.4.12.0.nupkg"
+    },
+    {
+      "id": "Microsoft.NETFramework.ReferenceAssemblies.net472",
+      "version": "1.0.3",
+      "sha256": "ffa0a5570a39f911399164d0581ffddef99b5e3dfbaa5f220e5ce22969bcf57c",
+      "destination": ".local-build/net472",
+      "url": "https://api.nuget.org/v3-flatcontainer/microsoft.netframework.referenceassemblies.net472/1.0.3/microsoft.netframework.referenceassemblies.net472.1.0.3.nupkg"
+    },
+    {
+      "id": "NSIS",
+      "version": "3.13",
+      "sha256": "ba63dffc4410ee89193e1cb5a41989991bd77c61068da17e3156d136b7b0b3d8",
+      "destination": ".local-build/nsis-tool",
+      "url": "https://downloads.sourceforge.net/project/nsis/NSIS%203/3.13/nsis-3.13.zip"
+    }
+  ]
+}
