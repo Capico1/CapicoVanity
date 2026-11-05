@@ -81,11 +81,10 @@ class ResourceBuilder {
             Copy-Item -LiteralPath (Join-Path $projectRoot $reference.HintPath) -Destination $payloadRoot
         }
     }
-    Copy-Item 'THIRD-PARTY-NOTICES.md' $payloadRoot
     Copy-Item 'LICENSES' $payloadRoot -Recurse
     New-Item -ItemType Directory -Path (Join-Path $payloadRoot 'packaging'),(Join-Path $payloadRoot 'ThirdParty\SolVanityCL'),(Join-Path $payloadRoot 'ThirdParty\ProVanity') -Force | Out-Null
     Copy-Item 'packaging\Dependencies.lock.json','packaging\License-inventory.json' (Join-Path $payloadRoot 'packaging')
-    Copy-Item 'LICENSE','RELEASE-NOTES.md','LICENSE-STATUS.md','README.md','BUILDING.md' $payloadRoot
+    Copy-Item 'RELEASE-NOTES.md','README.md','BUILDING.md' $payloadRoot
     New-Item -ItemType Directory -Path (Join-Path $payloadRoot 'Assets'),(Join-Path $payloadRoot 'docs\screenshots') -Force | Out-Null
     Copy-Item 'Assets\CapicoVanity.png','Assets\CapicoVanity.ico' (Join-Path $payloadRoot 'Assets')
     Copy-Item 'docs\screenshots\vanity-templates.png','docs\screenshots\recovery-cpu.png','docs\screenshots\generated-results.png' (Join-Path $payloadRoot 'docs\screenshots')

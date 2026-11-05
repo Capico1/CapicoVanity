@@ -21,7 +21,7 @@
     },
     {
         "path":  "BUILDING.md",
-        "sha256":  "a41f11983bc87705a3bb38f494bf462db3b5097ac504406f947ab23b2896aa72"
+        "sha256":  "4f4622f427f24a553eb0638d4f670faf4b2349e86eb39d766948a8e589ddb0d5"
     },
     {
         "path":  "docs/screenshots/generated-results.png",
@@ -76,12 +76,12 @@
         "sha256":  "9da5e72173e44f3d4df93ff7c7c033c8de795ade1641d3076ffa56d5bc76ede8"
     },
     {
-        "path":  "LICENSE",
-        "sha256":  "230184f60bae2feaf244f10a8bac053c8ff33a183bcc365b4d8b876d2b7f4809"
-    },
-    {
         "path":  "LICENSES/ADRaffy.ENSNormalize-upstream-LICENSE.txt",
         "sha256":  "f2af5b4bfe91512e171e90ade14927e6a4dca1e98b5b608177e726180f3620e0"
+    },
+    {
+        "path":  "LICENSES/CapicoVanity-NOTICES.md",
+        "sha256":  "048ec2fc5220900f29ef5fabf766bcf61a11d042a26389680dab9c9896575d9b"
     },
     {
         "path":  "LICENSES/Chaos.NaCl.Standard-upstream-LICENSE.txt",
@@ -344,10 +344,6 @@
         "sha256":  "9678c808e025829062bcf63057c26357741fc5f0032f078a248c2f9c7ad291af"
     },
     {
-        "path":  "LICENSE-STATUS.md",
-        "sha256":  "e0b00791fa9faf83ae48219395922fd429ea65c8cf3fa23315e74552247e8543"
-    },
-    {
         "path":  "Manage/AppPaths.cs",
         "sha256":  "a3167b14ba85f2bec089e0c0c79bc4d657f56874abf1576b1a3578d19355ddbb"
     },
@@ -429,7 +425,7 @@
     },
     {
         "path":  "packaging/Build-Share.ps1",
-        "sha256":  "921c0c3ad8968e269e45e052b0b4c0fa25a3eaa9863aacd01028d9ff853ce59b"
+        "sha256":  "b36f64bfa1d3200221f7ef40600c4bd758bbd9e0a8d7a1b558ce8497eb29bc36"
     },
     {
         "path":  "packaging/Dependencies.lock.json",
@@ -437,7 +433,7 @@
     },
     {
         "path":  "packaging/Export-Source.ps1",
-        "sha256":  "50389c74f394dbba71e2fa06f287e0b1269dd2982bfd55206a1b68064f5cc6e7"
+        "sha256":  "7ce365c0bf68a1bacf6333b4254efef52779c9d0c18ffd66718dd78b0be7a6c4"
     },
     {
         "path":  "packaging/License-inventory.json",
@@ -481,7 +477,7 @@
     },
     {
         "path":  "packaging/使用说明.txt",
-        "sha256":  "78ca73ce59f768712886f7365affcfb9197d772dc4b7235586bc38f1c2616838"
+        "sha256":  "93af765abdfd0f549e7b2e30faf9cec0b7500e49a5963486f3166f1af1b32843"
     },
     {
         "path":  "Program.cs",
@@ -513,7 +509,7 @@
     },
     {
         "path":  "README.md",
-        "sha256":  "2e358ac7885752f3c14b89c34cff1006e47e4aa839c197c9d72113b890e5d3f0"
+        "sha256":  "39a25781a68eb4f0dc7208f8deccb98bc6cdf83750ed73c52be161499fca859c"
     },
     {
         "path":  "RELEASE-NOTES.md",
@@ -538,10 +534,6 @@
     {
         "path":  "ThirdParty/SolVanityCL/README.md",
         "sha256":  "6ebebb97040a75ef9f24188ccb8e8fac2e1baacb39deaf2d1c96171add5d787f"
-    },
-    {
-        "path":  "THIRD-PARTY-NOTICES.md",
-        "sha256":  "88bb4bf4ca5aadf6c3ae5f199e9d00e2b63d65ef0cd6491458cf218c58667ec4"
     },
     {
         "path":  "wordlist.txt",

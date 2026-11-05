@@ -81,11 +81,3 @@ powershell -NoProfile -ExecutionPolicy Bypass -File packaging/Build-Share.ps1
 ```
 
 首次构建下载锁定版本的依赖与工具，并校验压缩包 SHA-256。默认构建普通版；CUDA 版还需取得校验匹配的后端并传入 `-IncludeCuda`。构建步骤、离线缓存和验证方法见 [BUILDING.md](BUILDING.md)。
-
-## 来源与许可
-
-本项目由 [Boom-Caoq/JmsTools](https://github.com/Boom-Caoq/JmsTools) 改造而来，由 Capico 维护。维护者已确认获得原项目授权，原作者与第三方来源说明继续保留。
-
-整合发行采用 [GNU GPL v3](LICENSE)，第三方组件保留各自版权和许可。SOL OpenCL 内核来自 SolVanityCL（GPLv3），可选 CUDA 后端来自 ProVanity（MIT）。详细记录见 [LICENSE-STATUS.md](LICENSE-STATUS.md) 和 [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md)。
-
-关注 [Capico 的 X 主页](https://x.com/NanaWiti)，了解后续更新。
