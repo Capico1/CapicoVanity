@@ -27,7 +27,3 @@ Windows x64 · ETH / BSC / Solana · Capico（X：@NanaWiti）
 ## 数据兼容
 
 产品名称为 Capico 靓号，X 账号 ID 为 @NanaWiti。为兼容旧版，分享版继续使用 `%LOCALAPPDATA%\NanaVanity\Data`。改名不自动搬移或删除旧钱包。DPAPI 加密文件依赖原 Windows 用户配置；换电脑或重装前需自行完成可恢复的加密备份。
-
-## 许可与来源
-
-维护者已确认获得原项目授权，整合发行使用 GNU GPL v3。保留 JmsTools、SolVanityCL、ProVanity 及其他依赖的来源与许可。源码包不包含个人钱包、配置、旧 Git 历史或内部审计报告；可选 CUDA 二进制按锁定的来源与哈希单独取得。

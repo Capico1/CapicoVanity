@@ -81,15 +81,14 @@ class ResourceBuilder {
             Copy-Item -LiteralPath (Join-Path $projectRoot $reference.HintPath) -Destination $payloadRoot
         }
     }
-    Copy-Item 'LICENSES' $payloadRoot -Recurse
     New-Item -ItemType Directory -Path (Join-Path $payloadRoot 'packaging'),(Join-Path $payloadRoot 'ThirdParty\SolVanityCL'),(Join-Path $payloadRoot 'ThirdParty\ProVanity') -Force | Out-Null
-    Copy-Item 'packaging\Dependencies.lock.json','packaging\License-inventory.json' (Join-Path $payloadRoot 'packaging')
+    Copy-Item 'packaging\Dependencies.lock.json' (Join-Path $payloadRoot 'packaging')
     Copy-Item 'RELEASE-NOTES.md','README.md','BUILDING.md' $payloadRoot
     New-Item -ItemType Directory -Path (Join-Path $payloadRoot 'Assets'),(Join-Path $payloadRoot 'docs\screenshots') -Force | Out-Null
     Copy-Item 'Assets\CapicoVanity.png','Assets\CapicoVanity.ico' (Join-Path $payloadRoot 'Assets')
     Copy-Item 'docs\screenshots\vanity-templates.png','docs\screenshots\recovery-cpu.png','docs\screenshots\generated-results.png' (Join-Path $payloadRoot 'docs\screenshots')
-    Copy-Item 'ThirdParty\SolVanityCL\LICENSE','ThirdParty\SolVanityCL\README.md','ThirdParty\SolVanityCL\kernel.cl' (Join-Path $payloadRoot 'ThirdParty\SolVanityCL')
-    Copy-Item 'ThirdParty\ProVanity\LICENSE','ThirdParty\ProVanity\README.md' (Join-Path $payloadRoot 'ThirdParty\ProVanity')
+    Copy-Item 'ThirdParty\SolVanityCL\README.md','ThirdParty\SolVanityCL\kernel.cl' (Join-Path $payloadRoot 'ThirdParty\SolVanityCL')
+    Copy-Item 'ThirdParty\ProVanity\README.md' (Join-Path $payloadRoot 'ThirdParty\ProVanity')
     Copy-Item 'App.config' (Join-Path $payloadRoot 'jmsTools.exe.config')
     Copy-Item 'wordlist.txt' $payloadRoot
     if ($IncludeCuda) {
@@ -99,8 +98,6 @@ class ResourceBuilder {
         }
         Copy-Item -LiteralPath $cuda -Destination $payloadRoot
     }
-    Copy-Item 'ThirdParty\ProVanity\LICENSE' (Join-Path $payloadRoot 'ProVanity-LICENSE.txt')
-    Copy-Item 'ThirdParty\SolVanityCL\LICENSE' (Join-Path $payloadRoot 'SolVanityCL-LICENSE.txt')
     @('https://ethereum-rpc.publicnode.com') | Set-Content (Join-Path $payloadRoot 'Ethrpc_nodes.txt') -Encoding utf8
     @('https://bsc-dataseed.binance.org') | Set-Content (Join-Path $payloadRoot 'Bscrpc_nodes.txt') -Encoding utf8
     @('https://api.mainnet-beta.solana.com') | Set-Content (Join-Path $payloadRoot 'Solrpc_nodes.txt') -Encoding utf8

@@ -41,4 +41,4 @@ Do not run verification against a personal wallet directory. Do not overwrite or
 powershell -NoProfile -ExecutionPolicy Bypass -File packaging/Export-Source.ps1 -Destination C:\path\to\new-source-folder
 ```
 
-The destination must not exist. Export copies explicit project source/resources and public documentation/tools only, hashes the source manifest, and fails on binary/private-file patterns or suspicious embedded credentials. It does not copy old Git history, bin/obj/packages, local audits or personal data. Export does not publish or create a GitHub repository. Licensing and retained attribution are collected in [LICENSES/CapicoVanity-NOTICES.md](LICENSES/CapicoVanity-NOTICES.md).
+The destination must not exist. Export copies explicit project source/resources and public documentation/tools only, hashes the source manifest, and fails on binary/private-file patterns or suspicious embedded credentials. It does not copy old Git history, bin/obj/packages, local audits or personal data. Export does not publish or create a GitHub repository.

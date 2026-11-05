@@ -268,16 +268,8 @@
   <ItemGroup>
     <None Include="App.config" />
     <Content Include="wordlist.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></Content>
-    <Content Include="ThirdParty\SolVanityCL\LICENSE">
-      <Link>SolVanityCL-LICENSE.txt</Link>
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
     <Content Include="ThirdParty\ProVanity\provanity_cuda_standard.dll" Condition="'$(IncludeCuda)' == 'true'">
       <Link>provanity_cuda_standard.dll</Link>
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="ThirdParty\ProVanity\LICENSE">
-      <Link>ProVanity-LICENSE.txt</Link>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
   </ItemGroup>

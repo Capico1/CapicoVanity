@@ -58,4 +58,3 @@ SOL 的 Base58 头部偏差可能较大，EVM 模板按随机展开的平均难�
 普通版：默认不包含可选 CUDA 二进制，EVM 使用 CPU，SOL 仍可自动使用 OpenCL。需要 CUDA 版时应通过 -IncludeCuda 重新打包，不要向已解压程序缓存添加 DLL。
 分享版数据目录：%LOCALAPPDATA%\NanaVanity\Data；程序缓存：%LOCALAPPDATA%\NanaVanity\Programs。每次启动核对所有程序文件，篡改或额外文件会阻止启动；不会删除钱包。旧版本数据不会自动搬移或删除。
 找回页面的助记词模板默认隐藏，可明确勾选“显示”；开始搜索后自动恢复隐藏。
-维护者已确认获得原项目授权。整合发行采用 GNU GPL v3；保留原项目与第三方版权及许可，详见 LICENSES/CapicoVanity-NOTICES.md。

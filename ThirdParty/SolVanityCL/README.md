@@ -4,7 +4,7 @@ Source: https://github.com/WincerChan/SolVanityCL
 
 Upstream commit: `697719aadcaee76aac485f7a506299202d16d1f4` (retrieved 2026-11-01).
 
-Upstream file: `core/opencl/kernel.cl`. License: GPL-3.0; full license included in LICENSE. The modified source is included here and embedded in the executable. Preserve the source and license when redistributing this component and comply with the upstream license.
+Upstream file: `core/opencl/kernel.cl`. The modified source is included here and embedded in the executable.
 
 JmsTools modifications (2026-11-01):
 

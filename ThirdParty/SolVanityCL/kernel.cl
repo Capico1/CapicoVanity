@@ -1,4 +1,4 @@
-// Derived from WincerChan/SolVanityCL, GPL-3.0. See accompanying LICENSE.
+// Derived from WincerChan/SolVanityCL.
 // Modified for JmsTools on 2026-11-01; changes are described in README.md.
 #ifndef NULL
 #define NULL 0L

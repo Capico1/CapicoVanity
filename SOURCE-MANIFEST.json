@@ -21,7 +21,7 @@
     },
     {
         "path":  "BUILDING.md",
-        "sha256":  "4f4622f427f24a553eb0638d4f670faf4b2349e86eb39d766948a8e589ddb0d5"
+        "sha256":  "1266f1b305e464e299d0f6a50acaea8613ceebf350bb8778d3be8e39f6102158"
     },
     {
         "path":  "docs/screenshots/generated-results.png",
@@ -69,279 +69,11 @@
     },
     {
         "path":  "jmsTools.csproj",
-        "sha256":  "0c71c7c37d9021406b8ad1a991e738d0083672d7f8533ffe9077a97dca54c559"
+        "sha256":  "486946c9afade8d1e6838a0ac3c010325293fee80b7404b3ba2c2c8d3beba9c7"
     },
     {
         "path":  "jmsTools.sln",
         "sha256":  "9da5e72173e44f3d4df93ff7c7c033c8de795ade1641d3076ffa56d5bc76ede8"
-    },
-    {
-        "path":  "LICENSES/ADRaffy.ENSNormalize-upstream-LICENSE.txt",
-        "sha256":  "f2af5b4bfe91512e171e90ade14927e6a4dca1e98b5b608177e726180f3620e0"
-    },
-    {
-        "path":  "LICENSES/CapicoVanity-NOTICES.md",
-        "sha256":  "048ec2fc5220900f29ef5fabf766bcf61a11d042a26389680dab9c9896575d9b"
-    },
-    {
-        "path":  "LICENSES/Chaos.NaCl.Standard-upstream-LICENSE.txt",
-        "sha256":  "435b017a59f516957dbe0f32f77badcd45a814dc4328906544035361fec94125"
-    },
-    {
-        "path":  "LICENSES/IndexRange-upstream-LICENSE.txt",
-        "sha256":  "1df7d72bc50aba52efbe5fb56ef4bb2cd682494f1c2370823a846fa9083433eb"
-    },
-    {
-        "path":  "LICENSES/Microsoft.Bcl.AsyncInterfaces-LICENSE.TXT",
-        "sha256":  "d7a68596ab69b06f51ca278a6545148e4269a9381c26d597c13df5d88e08cf5b"
-    },
-    {
-        "path":  "LICENSES/Microsoft.Bcl.AsyncInterfaces-THIRD-PARTY-NOTICES.TXT",
-        "sha256":  "40686c6447a7d5b5d3693068e4571b5f483d7ed335aeee773ef662440de4c5d5"
-    },
-    {
-        "path":  "LICENSES/Microsoft.Extensions.Logging.Abstractions-LICENSE.TXT",
-        "sha256":  "d7a68596ab69b06f51ca278a6545148e4269a9381c26d597c13df5d88e08cf5b"
-    },
-    {
-        "path":  "LICENSES/Microsoft.Extensions.Logging.Abstractions-THIRD-PARTY-NOTICES.TXT",
-        "sha256":  "a6344bfb229bc08d1071cec400eea216e307439f961c5943ec1b56d2245acb95"
-    },
-    {
-        "path":  "LICENSES/NativeWebSocket-original-Apache-2.0.txt",
-        "sha256":  "50e754644c6bf26a359a7d278a660625344243342087de19fb8c9c90147307f8"
-    },
-    {
-        "path":  "LICENSES/native-websocket-upstream-LICENSE.txt",
-        "sha256":  "9d1fe54cc671517dc0df5126ce5ecc5bb6255692b2ec8308679f5789fa9fb549"
-    },
-    {
-        "path":  "LICENSES/NBitcoin-upstream-LICENSE.txt",
-        "sha256":  "e7eed2cee5d7a4311aa81b1cacc205154366644fe0a1d92552148e8f65f7f03d"
-    },
-    {
-        "path":  "LICENSES/Nethereum.ABI-LICENSE.md",
-        "sha256":  "e21d322089059b244fb31bceeeafa8e6fec946376e5b54786e4391c89b816783"
-    },
-    {
-        "path":  "LICENSES/Nethereum.Accounts-LICENSE.md",
-        "sha256":  "e21d322089059b244fb31bceeeafa8e6fec946376e5b54786e4391c89b816783"
-    },
-    {
-        "path":  "LICENSES/Nethereum.BlockchainProcessing-LICENSE.md",
-        "sha256":  "e21d322089059b244fb31bceeeafa8e6fec946376e5b54786e4391c89b816783"
-    },
-    {
-        "path":  "LICENSES/Nethereum.Contracts-LICENSE.md",
-        "sha256":  "e21d322089059b244fb31bceeeafa8e6fec946376e5b54786e4391c89b816783"
-    },
-    {
-        "path":  "LICENSES/Nethereum.EVM-LICENSE.md",
-        "sha256":  "e21d322089059b244fb31bceeeafa8e6fec946376e5b54786e4391c89b816783"
-    },
-    {
-        "path":  "LICENSES/Nethereum.HdWallet-LICENSE.md",
-        "sha256":  "e21d322089059b244fb31bceeeafa8e6fec946376e5b54786e4391c89b816783"
-    },
-    {
-        "path":  "LICENSES/Nethereum.Hex-LICENSE.md",
-        "sha256":  "e21d322089059b244fb31bceeeafa8e6fec946376e5b54786e4391c89b816783"
-    },
-    {
-        "path":  "LICENSES/Nethereum.JsonRpc.Client-LICENSE.md",
-        "sha256":  "e21d322089059b244fb31bceeeafa8e6fec946376e5b54786e4391c89b816783"
-    },
-    {
-        "path":  "LICENSES/Nethereum.JsonRpc.RpcClient-LICENSE.md",
-        "sha256":  "e21d322089059b244fb31bceeeafa8e6fec946376e5b54786e4391c89b816783"
-    },
-    {
-        "path":  "LICENSES/Nethereum.KeyStore-LICENSE.md",
-        "sha256":  "e21d322089059b244fb31bceeeafa8e6fec946376e5b54786e4391c89b816783"
-    },
-    {
-        "path":  "LICENSES/Nethereum.Merkle.Patricia-LICENSE.md",
-        "sha256":  "e21d322089059b244fb31bceeeafa8e6fec946376e5b54786e4391c89b816783"
-    },
-    {
-        "path":  "LICENSES/Nethereum.Model-LICENSE.md",
-        "sha256":  "e21d322089059b244fb31bceeeafa8e6fec946376e5b54786e4391c89b816783"
-    },
-    {
-        "path":  "LICENSES/Nethereum.RLP-LICENSE.md",
-        "sha256":  "e21d322089059b244fb31bceeeafa8e6fec946376e5b54786e4391c89b816783"
-    },
-    {
-        "path":  "LICENSES/Nethereum.RPC-LICENSE.md",
-        "sha256":  "e21d322089059b244fb31bceeeafa8e6fec946376e5b54786e4391c89b816783"
-    },
-    {
-        "path":  "LICENSES/Nethereum.Signer.EIP712-LICENSE.md",
-        "sha256":  "e21d322089059b244fb31bceeeafa8e6fec946376e5b54786e4391c89b816783"
-    },
-    {
-        "path":  "LICENSES/Nethereum.Signer-LICENSE.md",
-        "sha256":  "e21d322089059b244fb31bceeeafa8e6fec946376e5b54786e4391c89b816783"
-    },
-    {
-        "path":  "LICENSES/Nethereum.Util.Rest-LICENSE.md",
-        "sha256":  "e21d322089059b244fb31bceeeafa8e6fec946376e5b54786e4391c89b816783"
-    },
-    {
-        "path":  "LICENSES/Nethereum.Util-LICENSE.md",
-        "sha256":  "e21d322089059b244fb31bceeeafa8e6fec946376e5b54786e4391c89b816783"
-    },
-    {
-        "path":  "LICENSES/Nethereum.Web3-LICENSE.md",
-        "sha256":  "e21d322089059b244fb31bceeeafa8e6fec946376e5b54786e4391c89b816783"
-    },
-    {
-        "path":  "LICENSES/Newtonsoft.Json-LICENSE.md",
-        "sha256":  "b98a397897ff55f76cddc380041507a95a896b2946e0188703bf0496793d6516"
-    },
-    {
-        "path":  "LICENSES/NSIS-COPYING.txt",
-        "sha256":  "388357c1215ff403c5ebde3a5ecd273e68f8b79a579996775245d1ee65442aba"
-    },
-    {
-        "path":  "LICENSES/Portable.BouncyCastle-upstream-LICENSE.html",
-        "sha256":  "fd4b3f9145c8d31fa2b5db7f607d3a8fad2015c9824091f3e9a9314a6147c0e7"
-    },
-    {
-        "path":  "LICENSES/Roslyn-ThirdPartyNotices.rtf",
-        "sha256":  "ef4678850e7e3aaf9297f07e5c4060d477854e545ccf8e2ef8452d65a7b2efaf"
-    },
-    {
-        "path":  "LICENSES/Solana.Unity.Rpc-upstream-LICENSE.txt",
-        "sha256":  "9531689106a8cd9dd0ecc6fa9244d09cd286ffc1fec5bde5a8a58df4b14ca00a"
-    },
-    {
-        "path":  "LICENSES/Solana.Unity.Wallet-upstream-LICENSE.txt",
-        "sha256":  "9531689106a8cd9dd0ecc6fa9244d09cd286ffc1fec5bde5a8a58df4b14ca00a"
-    },
-    {
-        "path":  "LICENSES/System.Buffers-LICENSE.TXT",
-        "sha256":  "d7a68596ab69b06f51ca278a6545148e4269a9381c26d597c13df5d88e08cf5b"
-    },
-    {
-        "path":  "LICENSES/System.Buffers-THIRD-PARTY-NOTICES.TXT",
-        "sha256":  "7864a01e2fdef7e8fdf81b906efb1466f083206affea7ba7e6dadea429754765"
-    },
-    {
-        "path":  "LICENSES/System.Collections.Immutable-LICENSE.TXT",
-        "sha256":  "d7a68596ab69b06f51ca278a6545148e4269a9381c26d597c13df5d88e08cf5b"
-    },
-    {
-        "path":  "LICENSES/System.Collections.Immutable-THIRD-PARTY-NOTICES.TXT",
-        "sha256":  "a6344bfb229bc08d1071cec400eea216e307439f961c5943ec1b56d2245acb95"
-    },
-    {
-        "path":  "LICENSES/System.IO.Pipelines-LICENSE.TXT",
-        "sha256":  "d7a68596ab69b06f51ca278a6545148e4269a9381c26d597c13df5d88e08cf5b"
-    },
-    {
-        "path":  "LICENSES/System.IO.Pipelines-THIRD-PARTY-NOTICES.TXT",
-        "sha256":  "40686c6447a7d5b5d3693068e4571b5f483d7ed335aeee773ef662440de4c5d5"
-    },
-    {
-        "path":  "LICENSES/System.IO-dotnet_library_license.txt",
-        "sha256":  "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297"
-    },
-    {
-        "path":  "LICENSES/System.IO-ThirdPartyNotices.txt",
-        "sha256":  "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b"
-    },
-    {
-        "path":  "LICENSES/System.Memory-LICENSE.TXT",
-        "sha256":  "d7a68596ab69b06f51ca278a6545148e4269a9381c26d597c13df5d88e08cf5b"
-    },
-    {
-        "path":  "LICENSES/System.Memory-THIRD-PARTY-NOTICES.TXT",
-        "sha256":  "7864a01e2fdef7e8fdf81b906efb1466f083206affea7ba7e6dadea429754765"
-    },
-    {
-        "path":  "LICENSES/System.Numerics.Vectors-LICENSE.TXT",
-        "sha256":  "d7a68596ab69b06f51ca278a6545148e4269a9381c26d597c13df5d88e08cf5b"
-    },
-    {
-        "path":  "LICENSES/System.Numerics.Vectors-THIRD-PARTY-NOTICES.TXT",
-        "sha256":  "7864a01e2fdef7e8fdf81b906efb1466f083206affea7ba7e6dadea429754765"
-    },
-    {
-        "path":  "LICENSES/System.Runtime.CompilerServices.Unsafe-LICENSE.TXT",
-        "sha256":  "d7a68596ab69b06f51ca278a6545148e4269a9381c26d597c13df5d88e08cf5b"
-    },
-    {
-        "path":  "LICENSES/System.Runtime.CompilerServices.Unsafe-THIRD-PARTY-NOTICES.TXT",
-        "sha256":  "a6344bfb229bc08d1071cec400eea216e307439f961c5943ec1b56d2245acb95"
-    },
-    {
-        "path":  "LICENSES/System.Runtime-dotnet_library_license.txt",
-        "sha256":  "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297"
-    },
-    {
-        "path":  "LICENSES/System.Runtime-ThirdPartyNotices.txt",
-        "sha256":  "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b"
-    },
-    {
-        "path":  "LICENSES/System.Security.Cryptography.Algorithms-dotnet_library_license.txt",
-        "sha256":  "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297"
-    },
-    {
-        "path":  "LICENSES/System.Security.Cryptography.Algorithms-ThirdPartyNotices.txt",
-        "sha256":  "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b"
-    },
-    {
-        "path":  "LICENSES/System.Security.Cryptography.Encoding-dotnet_library_license.txt",
-        "sha256":  "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297"
-    },
-    {
-        "path":  "LICENSES/System.Security.Cryptography.Encoding-ThirdPartyNotices.txt",
-        "sha256":  "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b"
-    },
-    {
-        "path":  "LICENSES/System.Security.Cryptography.Primitives-dotnet_library_license.txt",
-        "sha256":  "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297"
-    },
-    {
-        "path":  "LICENSES/System.Security.Cryptography.Primitives-ThirdPartyNotices.txt",
-        "sha256":  "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b"
-    },
-    {
-        "path":  "LICENSES/System.Text.Encodings.Web-LICENSE.TXT",
-        "sha256":  "d7a68596ab69b06f51ca278a6545148e4269a9381c26d597c13df5d88e08cf5b"
-    },
-    {
-        "path":  "LICENSES/System.Text.Encodings.Web-THIRD-PARTY-NOTICES.TXT",
-        "sha256":  "40686c6447a7d5b5d3693068e4571b5f483d7ed335aeee773ef662440de4c5d5"
-    },
-    {
-        "path":  "LICENSES/System.Text.Json-LICENSE.TXT",
-        "sha256":  "d7a68596ab69b06f51ca278a6545148e4269a9381c26d597c13df5d88e08cf5b"
-    },
-    {
-        "path":  "LICENSES/System.Text.Json-THIRD-PARTY-NOTICES.TXT",
-        "sha256":  "40686c6447a7d5b5d3693068e4571b5f483d7ed335aeee773ef662440de4c5d5"
-    },
-    {
-        "path":  "LICENSES/System.Threading.Tasks.Extensions-LICENSE.TXT",
-        "sha256":  "d7a68596ab69b06f51ca278a6545148e4269a9381c26d597c13df5d88e08cf5b"
-    },
-    {
-        "path":  "LICENSES/System.Threading.Tasks.Extensions-THIRD-PARTY-NOTICES.TXT",
-        "sha256":  "7864a01e2fdef7e8fdf81b906efb1466f083206affea7ba7e6dadea429754765"
-    },
-    {
-        "path":  "LICENSES/System.ValueTuple-LICENSE.TXT",
-        "sha256":  "d7a68596ab69b06f51ca278a6545148e4269a9381c26d597c13df5d88e08cf5b"
-    },
-    {
-        "path":  "LICENSES/System.ValueTuple-THIRD-PARTY-NOTICES.TXT",
-        "sha256":  "7864a01e2fdef7e8fdf81b906efb1466f083206affea7ba7e6dadea429754765"
-    },
-    {
-        "path":  "LICENSES/websocket-sharp-latest-upstream-LICENSE.txt",
-        "sha256":  "9678c808e025829062bcf63057c26357741fc5f0032f078a248c2f9c7ad291af"
     },
     {
         "path":  "Manage/AppPaths.cs",
@@ -425,7 +157,7 @@
     },
     {
         "path":  "packaging/Build-Share.ps1",
-        "sha256":  "b36f64bfa1d3200221f7ef40600c4bd758bbd9e0a8d7a1b558ce8497eb29bc36"
+        "sha256":  "be382fad4d457822640eff088e6be147ce1a950a840f0cf64ff68c20000c9235"
     },
     {
         "path":  "packaging/Dependencies.lock.json",
@@ -433,11 +165,7 @@
     },
     {
         "path":  "packaging/Export-Source.ps1",
-        "sha256":  "7ce365c0bf68a1bacf6333b4254efef52779c9d0c18ffd66718dd78b0be7a6c4"
-    },
-    {
-        "path":  "packaging/License-inventory.json",
-        "sha256":  "689fd05ca33eefadb1c71f5e1fc286fcca4a594115448773796ff2347457f619"
+        "sha256":  "e14ae3033e7f08e8bde10e39eae2f18b74a349d7d0a1333598cfbbdf5716848d"
     },
     {
         "path":  "packaging/Restore-Dependencies.ps1",
@@ -477,7 +205,7 @@
     },
     {
         "path":  "packaging/使用说明.txt",
-        "sha256":  "93af765abdfd0f549e7b2e30faf9cec0b7500e49a5963486f3166f1af1b32843"
+        "sha256":  "611fb27d81fa7cbb55282fb01edb102577b987d562dfaaa49489e5d867abb8b7"
     },
     {
         "path":  "Program.cs",
@@ -513,27 +241,19 @@
     },
     {
         "path":  "RELEASE-NOTES.md",
-        "sha256":  "858b6beb9bd0a91ee5fb6ec5fe0e83df0f501795a81c4fce2259105e83511207"
-    },
-    {
-        "path":  "ThirdParty/ProVanity/LICENSE",
-        "sha256":  "a76168190aecfe4250586578c195cc2634485262bbc5f122129e498609740f45"
+        "sha256":  "b0aa774b6b93bdbef18365712adb30fa1d984d0e8e225aea74b303704a2b4acf"
     },
     {
         "path":  "ThirdParty/ProVanity/README.md",
-        "sha256":  "38abf285a2f109cae9f75daeee1a1b66db435dec32fc7ad18f569a8e071585f3"
+        "sha256":  "324cdfd8df1a92c5a4e3a71ea75fd16966b2a2cbe1a5f62b6b46d53655b2fcd9"
     },
     {
         "path":  "ThirdParty/SolVanityCL/kernel.cl",
-        "sha256":  "cdfd9a681829b20426661a1e3c12b8ec42664332a5c8571979a7f0a1e59b4578"
-    },
-    {
-        "path":  "ThirdParty/SolVanityCL/LICENSE",
-        "sha256":  "230184f60bae2feaf244f10a8bac053c8ff33a183bcc365b4d8b876d2b7f4809"
+        "sha256":  "cf2dbc427b53356104793427afb7e2060b0bc19288c0983ac65524a50edc90ee"
     },
     {
         "path":  "ThirdParty/SolVanityCL/README.md",
-        "sha256":  "6ebebb97040a75ef9f24188ccb8e8fac2e1baacb39deaf2d1c96171add5d787f"
+        "sha256":  "03d18de4d4482ae8e63b818fa5271cb23ad04d431f91c3faa396104efafbcb35"
     },
     {
         "path":  "wordlist.txt",
